@@ -34,7 +34,7 @@ I am a **Computer Systems Engineer** and **JavaScript Full Stack Developer** spe
 
 ---
 
-### **Full Stack Developer**  
+### **Full Stack Developer and Project Lead**  
 **Nextia** – Ciudad de México, México | *Feb 2023 – Nov 2023*  
 - Led **Bits Contact Center** project as Full Stack Developer.  
 - Integrated **Twilio SDKs** for calls and messaging.  
